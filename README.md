@@ -29,12 +29,6 @@ A dynamic investment simulation tool featuring:
 - URL parameter-based sharing functionality
 - [Try it live](https://iabhi.dev/project/investment-calculator?utm_source=github&utm_medium=readme&utm_campaign=social_media) | [GitHub Repo](https://github.com/thegreatcodebender/investment-calculator)
 
-#### Fuel Dispenser Management System
-React application integrated with Raspberry Pi hardware:
-- Role-based access control
-- Admin analytics dashboard
-- Real-time monitoring interface
-- IoT device integration
   
 ### 📫 Let's Connect
 - Email: contact@iabhi.dev
