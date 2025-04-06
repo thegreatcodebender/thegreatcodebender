@@ -31,6 +31,6 @@ A dynamic investment simulation tool featuring:
 
   
 ### 📫 Let's Connect
-- Email: contact@iabhi.dev
+- contact@iabhi.dev
 - [LinkedIn](https://www.linkedin.com/in/abhijith-as/)
 - [Portfolio](https://iabhi.dev?utm_source=github&utm_medium=readme&utm_campaign=social_media)
